@@ -1,0 +1,6 @@
+Course Homepage: https://bit.ly/TSS21-Fundamentals-of-MLOps
+GitHub Repo: https://github.com/Sarthak0902/Fundamentals_of_MLOps_200050129
+
+WEEK 1
+Notes: https://www.notion.so/Week-1-A-Gentle-Introduction-to-MLOps-2a250ff4e70348179aa9bc3f92529827
+Assignment: https://www.notion.so/Assignment-1-b958deccfab6495290922385762e3ddf
